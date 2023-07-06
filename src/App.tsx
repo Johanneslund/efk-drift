@@ -64,12 +64,12 @@ function App() {
             </Stack>
           </Stack>
         </Box>
-        {/* <Box display="flex"
+        <Box display="flex"
           justifyContent="center"
           alignItems="center">
           <CustomCard name="IDP" status={idp} size="small"></CustomCard>
-        </Box> */}
-{/* 
+        </Box>
+
         <Typography align='center' variant='h2' sx={{ mt: "2vh" }}>
           Driftinformation
         </Typography>
@@ -91,7 +91,7 @@ function App() {
               ))}
             </Stack>
           </Stack>
-        </Box> */}
+        </Box>
 
       </Fragment>
 
